@@ -9,4 +9,6 @@
 
 5. 该模型对无人机视频中的行人检测的最终性能指标为：71.3%(mAP@0.5)，以下提供了一个完整的demo：
 
+   【基于YOLOv5的无人机行人检测--有DeepSort】 https://www.bilibili.com/video/BV1nM411E7oW/?share_source=copy_web&vd_source=b1680350b3e39b1c077ca9ac4d394dca
    
+   【基于YOLOv5的无人机行人检测--无DeepSort】 https://www.bilibili.com/video/BV1Ey4y1o7Nn/?share_source=copy_web&vd_source=b1680350b3e39b1c077ca9ac4d394dca
