@@ -7,7 +7,7 @@
 
    原视频数据集为okutama-action，链接如下：http://okutama-action.org/
 
-5. 该模型对无人机视频中的行人检测的最终性能指标为：71.3%(mAP@0.5)，以下提供了一个完整的demo：
+5. 该模型对无人机视频中的行人检测的最终性能指标为：71.5%(mAP@0.5)，以下提供了一个完整的demo：
 
    【基于YOLOv5的无人机行人检测--有DeepSort】 https://www.bilibili.com/video/BV1nM411E7oW/?share_source=copy_web&vd_source=b1680350b3e39b1c077ca9ac4d394dca
    
